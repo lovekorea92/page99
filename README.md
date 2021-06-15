@@ -2,12 +2,13 @@
 https://doykim.netlify.app/
 
 목차
-1. 실시간 날씨,위치 정보
-2. 실시간 시간 정보
-3. SEARCH BAR
-4. ADD memo-list
-5. bg auto change
------
+★ 실시간 날씨,위치 정보
+★ 실시간 시간 정보
+★ SEARCH BAR
+★ ADD memo-list
+★ bg auto change
+
+------------
 ★ 날씨,위치 정보
 
 1. html/css 작성
